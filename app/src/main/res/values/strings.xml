@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Convert Dollar to Euro and viceversa</string>
+    <string name="dollarText">U.S. dollar</string>
+    <string name="poundText">Egyption Pound</string>
+    <string name="ConvertButton">Convert</string>
+    <string name="clearButton">Clear</string>
+    <string name="clear"></string>
+</resources>
